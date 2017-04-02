@@ -1,2 +1,3 @@
 # SimpleLineFollower
-Here is a simple line follower logic implemented. It is not functional. But one can get the basic idea in short.
+## Simple Line Follower Using Opencv for Image Processing & Avoiding Censor
+Project descriptionThis project was just to warm up for more complex project using image processing.
